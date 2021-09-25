@@ -1,6 +1,6 @@
 {
-    "name": "heromoer",
-    "description": "heromoer",
+    "name": "Annalishajiih",
+    "description": "Annalishajiih",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
@@ -32,6 +32,6 @@
             "value": "https://raw.githubusercontent.com/ufyurer/heromoer/main/etc/StoreFiles"
         }
     },
-    "repository": "",
+    "repository": "https://github.com/Annalishajiih/Annalishajiih",
     "stack": "container"
 }
